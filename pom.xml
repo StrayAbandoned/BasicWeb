@@ -6,6 +6,9 @@
 
     <groupId>ru.geekbrains</groupId>
     <packaging>pom</packaging>
+    <modules>
+        <module>lesson1</module>
+    </modules>
     <artifactId>BasicWeb</artifactId>
     <version>1.0-SNAPSHOT</version>
 
